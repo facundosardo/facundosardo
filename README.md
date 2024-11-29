@@ -1,6 +1,6 @@
 👋 ¡Hola! Bienvenido/a a mi perfil de GitHub
 
-🤔 ¿Quién soy? ¡Hola! Mi nombre es Facundo. Soy Data Analyst en formación con experiencia en proyectos prácticos que me han permitido aplicar habilidades técnicas clave como SQL, Python, Power BI y Google Sheets. Me gradué de la carrera de Data Analytics en Henry, donde desarrollé una base sólida para resolver problemas reales mediante el análisis de datos.
+🤔 ¿Quién soy? ¡Hola! Mi nombre es Facundo. Soy Analista de Datos en formación con experiencia en proyectos prácticos que me han permitido aplicar habilidades técnicas clave como SQL, Python, Power BI y Google Sheets. Me gradué de la carrera de Data Analytics en Henry, donde desarrollé una base sólida para resolver problemas reales mediante el análisis de datos.
 
 💼 ¿Qué hago? Actualmente, contribuyo como Teaching Assistant (TA) en Henry, guiando a futuros analistas en su aprendizaje. Mi experiencia incluye la realización de proyectos integrales de análisis de datos, desde la limpieza y transformación de datasets hasta la creación de visualizaciones interactivas y reportes.
 
