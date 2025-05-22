@@ -13,5 +13,5 @@ Lenguajes y herramientas: Python, SQL Plataformas de visualización: Power BI An
 📩 ¿Quieres contactarme? No dudes en ponerte en contacto conmigo si estás interesado en colaborar, conversar sobre análisis de datos, o explorar cómo podemos crecer juntos. ¡Será un placer conectar! 😊
 
 ✉️ Email: sardodata@gmail.com 
-📍 LinkedIn: linkedin.com/in/facundosardo
+📍 LinkedIn: linkedin.com/in/sardofacundoariel/
 
