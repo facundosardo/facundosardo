@@ -1,17 +1,28 @@
 👋 ¡Hola! Bienvenido/a a mi perfil de GitHub
 
-🤔 ¿Quién soy? ¡Hola! Mi nombre es Facundo. Soy Analista de Datos en formación con experiencia en proyectos prácticos que me han permitido aplicar habilidades técnicas clave como SQL, Python, Power BI y Google Sheets. Me gradué de la carrera de Data Analytics en Henry, donde desarrollé una base sólida para resolver problemas reales mediante el análisis de datos.
+🤔 ¿Quién soy?
+¡Hola! Soy Facundo Ariel Sardo, Data Analyst con formación técnica en análisis, visualización y modelado predictivo de datos.
+Me gradué en Henry, donde desarrollé una base sólida en Python, SQL, Power BI y Google Sheets, aplicándola luego en proyectos reales de impacto.
 
-💼 ¿Qué hago? Actualmente, contribuyo como Teaching Assistant (TA) en Henry, guiando a futuros analistas en su aprendizaje. Mi experiencia incluye la realización de proyectos integrales de análisis de datos, desde la limpieza y transformación de datasets hasta la creación de visualizaciones interactivas y reportes.
+💼 Experiencia reciente
+Finalicé mi experiencia como Data Analyst en AnnexBox, una consultora estadounidense, donde participé en el desarrollo de sistemas de análisis y prospectiva de datos inmobiliarios.
+Además, formé parte del equipo HealthTech en No Country, donde diseñamos un modelo predictivo de demanda hospitalaria basado en Machine Learning (XGBoost, Prophet) y visualizado mediante Power BI.
+Previamente colaboré como Teaching Assistant (TA) en Henry, guiando a futuros analistas en su formación técnica y metodológica.
 
-🎯 ¿Hacia dónde me dirijo? Mi principal objetivo es unirme a una organización como Data Analyst para iniciar mi carrera profesional en el análisis de datos. Aspiro a contribuir al éxito del equipo y la organización con mi capacidad analítica, atención al detalle y enfoque orientado a resultados. Busco crecer personal y profesionalmente mientras aporto valor mediante soluciones basadas en datos.
+🎯 Objetivo profesional
+Mi meta es integrarme a nuevos proyectos o equipos donde pueda aplicar analítica avanzada y storytelling con datos para optimizar decisiones, procesos y estrategias de negocio.
+Busco seguir aprendiendo y aportar valor en entornos colaborativos, combinando pensamiento analítico con impacto real.
 
-🛠️ ¿Qué tecnologías utilizo? Mi stack técnico incluye:
+🛠️ Stack técnico
 
-Lenguajes y herramientas: Python, SQL Plataformas de visualización: Power BI Análisis avanzado: DAX, Google Sheets Otras habilidades: Modelado de datos, limpieza y transformación de datasets, EDA (Exploratory Data Analysis). También cuento con experiencia en integración de tecnologías y generación de dashboards interactivos para una mejor toma de decisiones.
+- Lenguajes y herramientas: Python, SQL, Pandas, NumPy, Jupyter, Excel, Google Sheets
+- Visualización: Power BI, Matplotlib, Seaborn
+- Machine Learning: XGBoost, Prophet, Scikit-learn
+- Otras habilidades: EDA, limpieza y transformación de datos, modelado predictivo, automatización, storytelling con datos
 
-📩 ¿Quieres contactarme? No dudes en ponerte en contacto conmigo si estás interesado en colaborar, conversar sobre análisis de datos, o explorar cómo podemos crecer juntos. ¡Será un placer conectar! 😊
+📩 ¿Quieres contactarme?
+Si te interesa colaborar o conocer más sobre mis proyectos, ¡será un placer conectar!
 
-✉️ Email: sardodata@gmail.com 
-📍 LinkedIn: linkedin.com/in/sardofacundoariel/
+✉️ Email: sardodata@gmail.com
 
+🔗 LinkedIn: linkedin.com/in/sardofacundoariel
