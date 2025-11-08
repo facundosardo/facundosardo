@@ -4,12 +4,12 @@
 ¡Hola! Soy Facundo Ariel Sardo, Data Analyst con formación técnica en análisis, visualización y modelado predictivo de datos.
 Me gradué en Henry, donde desarrollé una base sólida en Python, SQL, Power BI y Google Sheets, aplicándola luego en proyectos reales de impacto.
 
-💼 Experiencia reciente
+💼 Experiencia reciente:
 Finalicé mi experiencia como Data Analyst en AnnexBox, una consultora estadounidense, donde participé en el desarrollo de sistemas de análisis y prospectiva de datos inmobiliarios.
 Además, formé parte del equipo HealthTech en No Country, donde diseñamos un modelo predictivo de demanda hospitalaria basado en Machine Learning (XGBoost, Prophet) y visualizado mediante Power BI.
 Previamente colaboré como Teaching Assistant (TA) en Henry, guiando a futuros analistas en su formación técnica y metodológica.
 
-🎯 Objetivo profesional
+🎯 Objetivo profesional:
 Mi meta es integrarme a nuevos proyectos o equipos donde pueda aplicar analítica avanzada y storytelling con datos para optimizar decisiones, procesos y estrategias de negocio.
 Busco seguir aprendiendo y aportar valor en entornos colaborativos, combinando pensamiento analítico con impacto real.
 
